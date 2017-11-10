@@ -56,5 +56,5 @@ class PolyTreeNode
     end
     
     nil 
-  end 
+  end
 end
